@@ -1,1 +1,1 @@
-[PiliPili二次元APP官网下载](https://pilipili.github.io/)
+[PiliPili二次元APP官网下载](https://pilipiliapp.github.io/)
